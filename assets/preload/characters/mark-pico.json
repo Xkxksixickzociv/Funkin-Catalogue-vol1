@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Pico Idle Dance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				26,
+				-6
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-37,
+				-11
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				24
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "pico Up note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				234,
+				-80
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Pico Down Note0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				19,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "reload",
+			"indices": [],
+			"name": "Pico Reloading Gun"
+		},
+		{
+			"offsets": [
+				11,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shoot",
+			"indices": [],
+			"name": "Pico Shoot"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MarkPICO",
+	"position": [
+		10,
+		0
+	],
+	"healthicon": "pico-mark",
+	"flip_x": true,
+	"healthbar_colors": [
+		191,
+		191,
+		191
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

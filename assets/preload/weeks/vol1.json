@@ -1,0 +1,41 @@
+{
+	"storyName": "nothing is worth the risk",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "mandela",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Think",
+			"cesar-bf_think",
+			[
+				20,
+				20,
+				20
+			]
+		],
+		[
+			"Gift",
+			"alternate_cb",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": ""
+}
